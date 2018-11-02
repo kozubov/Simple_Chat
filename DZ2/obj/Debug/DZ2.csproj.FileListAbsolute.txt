@@ -1,0 +1,10 @@
+D:\999\setevoe\DZ2\DZ2\DZ2\bin\Debug\DZ2.exe.config
+D:\999\setevoe\DZ2\DZ2\DZ2\bin\Debug\DZ2.exe
+D:\999\setevoe\DZ2\DZ2\DZ2\bin\Debug\DZ2.pdb
+D:\999\setevoe\DZ2\DZ2\DZ2\obj\Debug\DZ2.csprojAssemblyReference.cache
+D:\999\setevoe\DZ2\DZ2\DZ2\obj\Debug\DZ2.Form1.resources
+D:\999\setevoe\DZ2\DZ2\DZ2\obj\Debug\DZ2.Properties.Resources.resources
+D:\999\setevoe\DZ2\DZ2\DZ2\obj\Debug\DZ2.csproj.GenerateResource.cache
+D:\999\setevoe\DZ2\DZ2\DZ2\obj\Debug\DZ2.csproj.CoreCompileInputs.cache
+D:\999\setevoe\DZ2\DZ2\DZ2\obj\Debug\DZ2.exe
+D:\999\setevoe\DZ2\DZ2\DZ2\obj\Debug\DZ2.pdb
